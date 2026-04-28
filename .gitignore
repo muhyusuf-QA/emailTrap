@@ -1,2 +1,4 @@
 .mailpit/
 .asklumia-lite/
+__pycache__/
+*.pyc
