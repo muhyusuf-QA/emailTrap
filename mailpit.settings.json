@@ -1,0 +1,12 @@
+{
+  "listen": "127.0.0.1:8025",
+  "smtp": "127.0.0.1:1025",
+  "smtpAllowedRecipients": "(?i)@e2e\\.asklumia\\.co$",
+  "database": ".mailpit/data/mailpit.db",
+  "maxMessages": 500,
+  "label": "LocalMailpit",
+  "disableVersionCheck": true,
+  "disableWal": false,
+  "verbose": false,
+  "quiet": false
+}

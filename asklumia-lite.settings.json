@@ -1,0 +1,18 @@
+{
+  "apiListen": "127.0.0.1:8001",
+  "authListen": "127.0.0.1:8003",
+  "allowedEmailDomain": "e2e.asklumia.co",
+  "smtpHost": "127.0.0.1",
+  "smtpPort": 1025,
+  "senderEmail": "noreply@asklumia.local",
+  "senderName": "Asklumia",
+  "otpExpiryMinutes": 10,
+  "otpResendCooldownSeconds": 60,
+  "otpHourlyRequestLimit": 6,
+  "otpHourlyWindowSeconds": 3600,
+  "otpMaximumAttempts": 5,
+  "otpBlockDurationMinutes": 60,
+  "accessTokenTtlMinutes": 720,
+  "refreshTokenTtlMinutes": 43200,
+  "appVersion": "local-e2e"
+}
